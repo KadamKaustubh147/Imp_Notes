@@ -20,4 +20,3 @@ https://docs.perplexity.ai/home
 AI prompting guide
 
 https://www.promptingguide.ai
-
